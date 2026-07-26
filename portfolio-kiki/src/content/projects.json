@@ -1,0 +1,215 @@
+[
+  {
+    "id": "project-1",
+    "code": "WEB-01",
+    "githubUrl": "Link a GitHub",
+    "technologies": ["HTML", "CSS", "JavaScript", "MySQL"],
+    "images": [
+      {
+        "src": "/images/projects/project-1/interface-1.png",
+        "translations": {
+          "es": {
+            "title": "Interfaz",
+            "alt": "Interfaz del proyecto web"
+          },
+          "en": {
+            "title": "Interface",
+            "alt": "Web project interface"
+          }
+        }
+      },
+      {
+        "src": "/images/projects/project-1/code-1.png",
+        "translations": {
+          "es": {
+            "title": "Código",
+            "alt": "Código del proyecto web"
+          },
+          "en": {
+            "title": "Code",
+            "alt": "Web project code"
+          }
+        }
+      },
+      {
+        "src": "/images/projects/project-1/placeholder-3.png",
+        "translations": {
+          "es": {
+            "title": "Vista previa",
+            "alt": "Vista previa del proyecto web"
+          },
+          "en": {
+            "title": "Preview",
+            "alt": "Web project preview"
+          }
+        }
+      }
+    ],
+    "translations": {
+      "es": {
+        "title": "Proyecto web",
+        "status": "En desarrollo",
+        "description": "Aplicación web enfocada en estructura frontend, diseño de interfaz y manejo de datos.",
+        "previewTitle": "Vista principal",
+        "learnings": [
+          "Estructura de páginas web",
+          "Estilos responsive",
+          "Organización de datos"
+        ]
+      },
+      "en": {
+        "title": "Web project",
+        "status": "In progress",
+        "description": "Web application focused on frontend structure, interface design and data handling.",
+        "previewTitle": "Main view",
+        "learnings": [
+          "Web page structure",
+          "Responsive styles",
+          "Data organization"
+        ]
+      }
+    }
+  },
+  {
+    "id": "project-2",
+    "code": "ACA-02",
+    "githubUrl": "Link a GitHub",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "images": [
+      {
+        "src": "/images/projects/project-2/interface-1.png",
+        "translations": {
+          "es": {
+            "title": "Interfaz",
+            "alt": "Interfaz del proyecto académico"
+          },
+          "en": {
+            "title": "Interface",
+            "alt": "Academic project interface"
+          }
+        }
+      },
+      {
+        "src": "/images/projects/project-2/code-1.png",
+        "translations": {
+          "es": {
+            "title": "Código",
+            "alt": "Código del proyecto académico"
+          },
+          "en": {
+            "title": "Code",
+            "alt": "Academic project code"
+          }
+        }
+      },
+      {
+        "src": "/images/projects/project-2/placeholder-3.png",
+        "translations": {
+          "es": {
+            "title": "Vista previa",
+            "alt": "Vista previa del proyecto académico"
+          },
+          "en": {
+            "title": "Preview",
+            "alt": "Academic project preview"
+          }
+        }
+      }
+    ],
+    "translations": {
+      "es": {
+        "title": "Proyecto académico",
+        "status": "Académico",
+        "description": "Proyecto orientado a practicar lógica, componentes visuales y presentación de información.",
+        "previewTitle": "Vista académica",
+        "learnings": [
+          "Lógica con JavaScript",
+          "Maquetación con CSS",
+          "Presentación de contenido"
+        ]
+      },
+      "en": {
+        "title": "Academic project",
+        "status": "Academic",
+        "description": "Project focused on practicing logic, visual components and information presentation.",
+        "previewTitle": "Academic view",
+        "learnings": [
+          "JavaScript logic",
+          "CSS layout",
+          "Content presentation"
+        ]
+      }
+    }
+  },
+  {
+    "id": "project-3",
+    "code": "APP-03",
+    "githubUrl": "Link a GitHub",
+    "technologies": ["HTML", "CSS", "JavaScript", "MySQL"],
+    "images": [
+      {
+        "src": "/images/projects/project-3/interface-1.png",
+        "translations": {
+          "es": {
+            "title": "Interfaz",
+            "alt": "Interfaz del proyecto personal"
+          },
+          "en": {
+            "title": "Interface",
+            "alt": "Personal project interface"
+          }
+        }
+      },
+      {
+        "src": "/images/projects/project-3/code-1.png",
+        "translations": {
+          "es": {
+            "title": "Código",
+            "alt": "Código del proyecto personal"
+          },
+          "en": {
+            "title": "Code",
+            "alt": "Personal project code"
+          }
+        }
+      },
+      {
+        "src": "/images/projects/project-3/placeholder-3.png",
+        "translations": {
+          "es": {
+            "title": "Vista previa",
+            "alt": "Vista previa del proyecto personal"
+          },
+          "en": {
+            "title": "Preview",
+            "alt": "Personal project preview"
+          }
+        }
+      }
+    ],
+    "translations": {
+      "es": {
+        "title": "Proyecto personal",
+        "status": "Personal",
+        "description": "Proyecto enfocado en resolver una necesidad específica mediante una solución web simple.",
+        "previewTitle": "Vista personal",
+        "learnings": [
+          "Análisis de necesidades",
+          "Diseño de solución",
+          "Mejora de interfaz"
+        ]
+      },
+      "en": {
+        "title": "Personal project",
+        "status": "Personal",
+        "description": "Project focused on solving a specific need through a simple web solution.",
+        "previewTitle": "Personal view",
+        "learnings": [
+          "Needs analysis",
+          "Solution design",
+          "Interface improvement"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "siteName": "Portafolio Kiki",
+    "language": "es"
+  },
+  "languageToggle": {
+    "ariaLabel": "Cambiar idioma del portafolio"
+  },
+  "common": {
+    "backToHome": "Volver al inicio",
+    "backToPortfolio": "Volver al portafolio"
+  },
+  "navigation": {
+    "ariaLabel": "Navegación principal",
+    "logoAriaLabel": "Ir al inicio del portafolio",
+    "items": [
+      {
+        "label": "Inicio",
+        "href": "/#inicio"
+      },
+      {
+        "label": "Perfil",
+        "href": "/#perfil"
+      },
+      {
+        "label": "Habilidades",
+        "href": "/#habilidades"
+      },
+      {
+        "label": "Currículum",
+        "href": "/#curriculum"
+      },
+      {
+        "label": "Proyectos",
+        "href": "/#proyectos"
+      },
+      {
+        "label": "Contacto",
+        "href": "/#contacto"
+      }
+    ]
+  },
+  "hero": {
+    "welcome": "Bienvenido a mi portafolio de desarrollo",
+    "title": "Kiki",
+    "subtitle": "Desarrollador web en formación",
+    "phrase": "Creo soluciones web sencillas, claras y útiles, enfocadas en aprender mejor y ayudar a quienes me rodean.",
+    "primaryAction": "Ver portafolio",
+    "secondaryAction": "Ver proyectos",
+    "radar": {
+      "eyebrow": "Radar de enfoque",
+      "panelLabel": "Sistema activo",
+      "instruction": "Mueve el cursor sobre la pantalla para activar el radar.",
+      "reducedMotionLabel": "Movimiento reducido activo: el radar se mantiene estable.",
+      "items": [
+        {
+          "title": "Enfoque interactivo",
+          "description": "La luz sigue el cursor y revela con más fuerza la frase principal."
+        },
+        {
+          "title": "Portafolio bilingüe",
+          "description": "El contenido está preparado para español e inglés desde archivos JSON."
+        },
+        {
+          "title": "Base frontend",
+          "description": "El proyecto está construido con React, Vite y Tailwind CSS."
+        }
+      ]
+    },
+    "baseCard": {
+      "eyebrow": "Commit 03",
+      "title": "Bienvenida con radar.",
+      "description": "El portafolio ahora tiene una entrada visual interactiva con efecto de enfoque.",
+      "items": [
+        "Radar interactivo",
+        "Frase revelada",
+        "Soporte responsive",
+        "Reduced motion"
+      ]
+    }
+  },
+  "profile": {
+    "eyebrow": "Perfil técnico",
+    "title": "Ficha técnica personal",
+    "description": "Una presentación visual con los datos principales de Joshua, organizada como una ficha técnica limpia e interactiva.",
+    "sheetCode": "KIKI / PROFILE / 04",
+    "sheetTitle": "Datos principales",
+    "statusLabel": "Editable",
+    "summaryLabel": "Descripción",
+    "goalLabel": "Meta actual",
+    "professionalText": "Soy Joshua Alejandro Santa Cruz Chicas, también conocido como Kiki. Soy un desarrollador web en formación con nivel intermedio en Kinal. Me interesa aprender de forma práctica y construir soluciones web sencillas que puedan servir para proyectos personales, familiares o necesidades específicas.",
+    "goalText": "Actualmente no tengo una meta profesional completamente definida dentro del desarrollo, pero me interesa seguir aprendiendo y posiblemente crear programas útiles para mí o para mi familia.",
+    "photo": {
+      "src": "/images/profile/kiki-photo-placeholder.webp",
+      "alt": "Fotografía de Joshua Alejandro Santa Cruz Chicas",
+      "placeholderLabel": "Foto",
+      "placeholderDescription": "Imagen personal",
+      "metrics": [
+        {
+          "label": "Modo",
+          "value": "Web"
+        },
+        {
+          "label": "Nivel",
+          "value": "Inicial"
+        },
+        {
+          "label": "Ruta",
+          "value": "Kinal"
+        }
+      ]
+    },
+    "facts": [
+      {
+        "id": "name",
+        "label": "Nombre",
+        "value": "Joshua Alejandro Santa Cruz Chicas"
+      },
+      {
+        "id": "age",
+        "label": "Edad",
+        "value": "18 años"
+      },
+      {
+        "id": "grade",
+        "label": "Grado",
+        "value": "6.º Perito en Informática"
+      },
+      {
+        "id": "location",
+        "label": "Ciudad y país",
+        "value": "Guatemala"
+      }
+    ],
+    "capabilities": [
+      "Desarrollo web",
+      "Bases de datos",
+      "Diseño UI",
+      "Resolución de problemas",
+      "Comunicación",
+      "Responsabilidad"
+    ]
+  },
+  "skills": {
+    "eyebrow": "Habilidades",
+    "title": "Habilidades de Desarrollo",
+    "detailLabel": "Habilidad activa",
+    "levelLabel": "Nivel",
+    "technologiesLabel": "Tecnologías",
+    "technologies": ["HTML", "CSS", "JavaScript", "MySQL", "GitHub"]
+  },
+  "curriculum": {
+    "eyebrow": "Currículum",
+    "title": "Credenciales",
+    "detailLabel": "Detalle",
+    "closeLabel": "Cerrar credencial"
+  },
+  "projects": {
+    "eyebrow": "Proyectos",
+    "title": "Proyectos",
+    "description": "Trabajos seleccionados de desarrollo web.",
+    "previewLabel": "Vista",
+    "technologiesLabel": "Tecnologías",
+    "learningsLabel": "Aprendizajes",
+    "githubLabel": "GitHub",
+    "slideLabel": "Vista",
+    "pauseLabel": "Pausar carrusel",
+    "playLabel": "Reproducir carrusel",
+    "openPreviewLabel": "Ver"
+  },
+  "contact": {
+  "eyebrow": "Contacto",
+  "title": "Conecta conmigo",
+  "description": "Canales principales para comunicación y seguimiento.",
+  "openLabel": "Abrir",
+  "items": [
+    {
+      "key": "github",
+      "label": "GitHub"
+    },
+    {
+      "key": "whatsapp",
+      "label": "WhatsApp"
+    },
+    {
+      "key": "email",
+      "label": "Correo"
+    }
+  ]
+},
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La ruta que intentaste abrir no existe dentro del portafolio."
+  }
+}

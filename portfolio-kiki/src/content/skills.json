@@ -1,0 +1,72 @@
+[
+  {
+    "id": "database",
+    "level": 75,
+    "translations": {
+      "es": {
+        "name": "Base de datos",
+        "description": "Conocimiento inicial para organizar y consultar información usando MySQL."
+      },
+      "en": {
+        "name": "Databases",
+        "description": "Initial knowledge to organize and query information using MySQL."
+      }
+    }
+  },
+  {
+    "id": "ui-design",
+    "level": 65,
+    "translations": {
+      "es": {
+        "name": "Diseño UI",
+        "description": "Capacidad para crear interfaces simples, limpias y fáciles de entender."
+      },
+      "en": {
+        "name": "UI Design",
+        "description": "Ability to create simple, clean and easy-to-understand interfaces."
+      }
+    }
+  },
+  {
+    "id": "problem-solving",
+    "level": 60,
+    "translations": {
+      "es": {
+        "name": "Resolución de problemas",
+        "description": "Habilidad para analizar situaciones y buscar soluciones prácticas mediante código."
+      },
+      "en": {
+        "name": "Problem solving",
+        "description": "Ability to analyze situations and look for practical solutions through code."
+      }
+    }
+  },
+  {
+    "id": "communication",
+    "level": 67,
+    "translations": {
+      "es": {
+        "name": "Comunicación",
+        "description": "Capacidad para explicar ideas y trabajar de forma clara con otras personas."
+      },
+      "en": {
+        "name": "Communication",
+        "description": "Ability to explain ideas and work clearly with other people."
+      }
+    }
+  },
+  {
+    "id": "responsibility",
+    "level": 80,
+    "translations": {
+      "es": {
+        "name": "Responsabilidad",
+        "description": "Compromiso para cumplir tareas, aprender y mejorar en cada proyecto."
+      },
+      "en": {
+        "name": "Responsibility",
+        "description": "Commitment to completing tasks, learning and improving in each project."
+      }
+    }
+  }
+]

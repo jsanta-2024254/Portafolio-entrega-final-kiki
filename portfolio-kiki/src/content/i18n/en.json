@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "siteName": "Kiki Portfolio",
+    "language": "en"
+  },
+  "languageToggle": {
+    "ariaLabel": "Change portfolio language"
+  },
+  "common": {
+    "backToHome": "Back to home",
+    "backToPortfolio": "Back to portfolio"
+  },
+  "navigation": {
+    "ariaLabel": "Main navigation",
+    "logoAriaLabel": "Go to portfolio home",
+    "items": [
+      {
+        "label": "Home",
+        "href": "/#inicio"
+      },
+      {
+        "label": "Profile",
+        "href": "/#perfil"
+      },
+      {
+        "label": "Skills",
+        "href": "/#habilidades"
+      },
+      {
+        "label": "Resume",
+        "href": "/#curriculum"
+      },
+      {
+        "label": "Projects",
+        "href": "/#proyectos"
+      },
+      {
+        "label": "Contact",
+        "href": "/#contacto"
+      }
+    ]
+  },
+  "hero": {
+    "welcome": "Welcome to my development portfolio",
+    "title": "Kiki",
+    "subtitle": "Web developer in training",
+    "phrase": "I create simple, clear and useful web solutions focused on learning better and helping the people around me.",
+    "primaryAction": "See portfolio",
+    "secondaryAction": "See projects",
+    "radar": {
+      "eyebrow": "Focus radar",
+      "panelLabel": "Active system",
+      "instruction": "Move the cursor over the screen to activate the radar.",
+      "reducedMotionLabel": "Reduced motion active: the radar remains stable.",
+      "items": [
+        {
+          "title": "Interactive focus",
+          "description": "The light follows the cursor and reveals the main phrase more strongly."
+        },
+        {
+          "title": "Bilingual portfolio",
+          "description": "The content is prepared for Spanish and English through JSON files."
+        },
+        {
+          "title": "Frontend base",
+          "description": "The project is built with React, Vite and Tailwind CSS."
+        }
+      ]
+    },
+    "baseCard": {
+      "eyebrow": "Commit 03",
+      "title": "Welcome with radar.",
+      "description": "The portfolio now has an interactive visual entrance with a focus effect.",
+      "items": [
+        "Interactive radar",
+        "Revealed phrase",
+        "Responsive support",
+        "Reduced motion"
+      ]
+    }
+  },
+  "profile": {
+    "eyebrow": "Technical profile",
+    "title": "Personal technical sheet",
+    "description": "Joshua's main information organized as a clean and interactive technical sheet.",
+    "sheetCode": "KIKI / PROFILE / 04",
+    "sheetTitle": "Main data",
+    "statusLabel": "Editable",
+    "summaryLabel": "Description",
+    "goalLabel": "Current goal",
+    "professionalText": "I am Joshua Alejandro Santa Cruz Chicas, also known as Kiki. I am a web developer in training with an intermediate level at Kinal. I am interested in practical learning and building simple web solutions for personal, family or specific needs.",
+    "goalText": "Currently, I do not have a completely defined professional goal within development, but I am interested in continuing to learn and possibly creating useful programs for myself or my family.",
+    "photo": {
+      "src": "/images/profile/kiki-photo-placeholder.webp",
+      "alt": "Photo of Joshua Alejandro Santa Cruz Chicas",
+      "placeholderLabel": "Photo",
+      "placeholderDescription": "Personal image",
+      "metrics": [
+        {
+          "label": "Mode",
+          "value": "Web"
+        },
+        {
+          "label": "Level",
+          "value": "Initial"
+        },
+        {
+          "label": "Path",
+          "value": "Kinal"
+        }
+      ]
+    },
+    "facts": [
+      {
+        "id": "name",
+        "label": "Name",
+        "value": "Joshua Alejandro Santa Cruz Chicas"
+      },
+      {
+        "id": "age",
+        "label": "Age",
+        "value": "18 years"
+      },
+      {
+        "id": "grade",
+        "label": "Grade",
+        "value": "6th year Computer Science student"
+      },
+      {
+        "id": "location",
+        "label": "City and country",
+        "value": "Guatemala"
+      }
+    ],
+    "capabilities": [
+      "Web development",
+      "Databases",
+      "UI Design",
+      "Problem solving",
+      "Communication",
+      "Responsibility"
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Development Skills",
+    "detailLabel": "Active skill",
+    "levelLabel": "Level",
+    "technologiesLabel": "Technologies",
+    "technologies": ["HTML", "CSS", "JavaScript", "MySQL", "GitHub"]
+  },
+  "curriculum": {
+    "eyebrow": "Resume",
+    "title": "Credentials",
+    "detailLabel": "Detail",
+    "closeLabel": "Close credential"
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Projects",
+    "description": "Selected web development work.",
+    "previewLabel": "View",
+    "technologiesLabel": "Technologies",
+    "learningsLabel": "Learnings",
+    "githubLabel": "GitHub",
+    "slideLabel": "View",
+    "pauseLabel": "Pause carousel",
+    "playLabel": "Play carousel",
+    "openPreviewLabel": "View"
+  },
+  "contact": {
+  "eyebrow": "Contact",
+  "title": "Connect with me",
+  "description": "Main channels for communication and follow-up.",
+  "openLabel": "Open",
+  "items": [
+    {
+      "key": "github",
+      "label": "GitHub"
+    },
+    {
+      "key": "whatsapp",
+      "label": "WhatsApp"
+    },
+    {
+      "key": "email",
+      "label": "Email"
+    }
+  ]
+},
+  "notFound": {
+    "title": "Page not found",
+    "description": "The route you tried to open does not exist inside the portfolio."
+  }
+}
