@@ -73,7 +73,7 @@
   {
     "id": "project-2",
     "code": "ACA-02",
-    "githubUrl": "Link a GitHub",
+    "githubUrl": "https://github.com/smolina-2021528/GestionUrbana.git",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "images": [
       {
