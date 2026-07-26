@@ -144,7 +144,7 @@
   {
     "id": "project-3",
     "code": "APP-03",
-    "githubUrl": "Link a GitHub",
+    "githubUrl": "https://github.com/jsanta-2024254/Papitos-Luxury-Watch-Store.git",
     "technologies": ["HTML", "CSS", "JavaScript", "MySQL"],
     "images": [
       {
