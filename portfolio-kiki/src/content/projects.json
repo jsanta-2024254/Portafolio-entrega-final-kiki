@@ -2,7 +2,7 @@
   {
     "id": "project-1",
     "code": "WEB-01",
-    "githubUrl": "Link a GitHub",
+    "githubUrl": "https://github.com/jsanta-2024254/bank-management-system.git",
     "technologies": ["HTML", "CSS", "JavaScript", "MySQL"],
     "images": [
       {
